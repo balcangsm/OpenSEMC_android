@@ -13,7 +13,7 @@
            fetch="git://github.com/OpenSEMC/" />
 
   <remote  name="opensemc_ffig"
-           fetch="git://github.com/fernandofig/" />
+           fetch="git@github.com:fernandofig/" />
 
   <remote  name="private"
            fetch="ssh://git@github.com" />
