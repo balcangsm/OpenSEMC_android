@@ -24,7 +24,7 @@
     <copyfile src="core/root.mk" dest="Makefile" />
   </project>
 
-  <project path="android" name="fernandofig/OpenSEMC_android" remote="private" />
+  <project path="android" name="fernandofig/OpenSEMC_android" remote="private" revision="jb4.1-camera" />
 
   <project path="abi/cpp" name="CyanogenMod/android_abi_cpp" />
   <project path="bionic" name="CyanogenMod/android_bionic" />
