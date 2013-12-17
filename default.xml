@@ -393,7 +393,7 @@
   <project path="device/sony/hikari" name="android_device_sony_hikari" remote="opensemc" revision="cm-10.1" />
   <project path="device/sony/nozomi" name="fernandofig/OpenSEMC_android_device_sony_nozomi" remote="private" revision="cm-10.1" />
   <project path="device/sony/common" name="fernandofig/OpenSEMC_android_device_sony_common" remote="private" revision="cm-10.1" />
-  <project path="device/sony/qcom-common" name="android_device_sony_qcom-common" remote="private" revision="jb4.1-camera" />
+  <project path="device/sony/qcom-common" name="fernandofig/OpenSEMC_android_device_sony_qcom-common" remote="private" revision="jb4.1-camera" />
   <project path="device/sony/fuji-common" name="fernandofig/OpenSEMC_android_device_sony_fuji-common" remote="private" revision="cm-10.1" />
   <project path="kernel/sony/msm8x60" name="fernandofig/OpenSEMC_kernel" remote="private" revision="opensemc-u" />
   <project path="vendor/broadcom/wlan" name="vendor_broadcom_wlan" remote="opensemc" revision="cm-10.1" />
